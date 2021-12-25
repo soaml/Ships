@@ -5,6 +5,7 @@
 #include <sstream>
 #include <deque>
 using namespace std;
+
 int main() {
 	ifstream fin("SHIPS.IN");
 	ofstream fout("SHIPS.OUT");
